@@ -4,7 +4,6 @@
 The objective of this project was to collect and analyze real estate data for various cities and regions in Bangladesh from [Bproperty](https://www.bproperty.com/en/bangladesh/properties-for-rent/). <br/> 
 After scraping and cleaning approximately 100k+ raw data points, I narrowed it down to 4421 unique property listings.
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/mynul.islam/viz/BangladeshRealEstateMarket/Dashboard1?publish=yes). 
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/mynul.islam/viz/BangladeshRealEstateMarket/Dashboard1?publish=yes)
 Based on the analysis of the cleaned dataset, several key observations were made:
